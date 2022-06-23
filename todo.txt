@@ -1,0 +1,3 @@
+000. login screen + persistentLogin (localAsyncStorage)
+1. type everything
+2. build apk & register
